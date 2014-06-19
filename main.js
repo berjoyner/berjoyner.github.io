@@ -27,4 +27,8 @@ $(document).ready(function() {
     
   });
   
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 353d61d7a581d725e0eb58a53f1c7bf30cde4d69
